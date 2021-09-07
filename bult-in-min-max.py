@@ -13,7 +13,7 @@ value2 = input("Enter Max Value2 ")
 
 value3 = input("Enter Max Value3 ")
 
-min_input = input("Enter numbers Minimum separated by a space ").split()
+min_input = input("Enter Minimum numbers separated by a space ").split()
 
 min_list = list(map(int, min_input))
 
